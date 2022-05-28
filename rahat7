@@ -1,0 +1,35 @@
+class="content">
+<h1>MY LIFE LINE</h1>
+<img src="https://lh3.googleusercontent.com/jVnQ_9A9lgld_BUT3GpF_pntLub1ma2NBIKxV9MWR_wfkaUswRupTGFKbh6rpTgm7r3QuSZeA07D4xis5nfHkKPRsJeWj64LjLDn043VOSKvgNK5uWA8EL5Do_MJVEI_Y_-wZulAczaGkbOtpTQjDxL31Lym8wMYmrqyilghwB7MfAPRW_x4f_BDG_fGD3aD36D2LzDHWPGqxzKEvyi6qRsp7FhIHsFSxZgvYW9yUNExgP8rc_HJKahX5ON9Dx3vcfXiJgS06CeUAKfAQ4VMISRjgW_PBXj1i0LQ0PpwtkVDFWcmc6c-Djt27ABjyagxId22HmlEN_F0AZBMSPc7DLXXbPN6ncN9-fIJhgCPtZ5FKa3R-okn6H-m8l-qO7smjJXoc3xG1djXty3usC3kAsd6HtdZ51PP0WBc6ulEacj6PKBRNz92XkeGMtjchlkVpu5IWRUZarGu9OMa2MVRIxsPpoco5pwR3DTz5F3EuSrijURpizwylM0GKXK695A58wyINNuP9IQ7mYmAX-AUJCK60iMklNbxXDeCloAqkwKsDVqQmLBm9J29ff-1QDshNToctmAdyCWD_NicX_cEvEtnnRCeQKHnlQfb7zlTC1juy1v33ea0RVOGYNL3Yd8jPXIAAMSmot6E2dObpM5u0e2zf2gmZ8YRJzCP51_VBdolVB_lPObGS5vQclPxznCkOXdPHUvwfzh9JBZz-XGwJEpO-FiCQHmLO2sdLYrV4iaMnNsF7JuyKNYK2IMs0Q=w976-h1300-no?authuser=0"
+    alt="my life" width="1200" hieght="1000">
+<h1>My life line</h1>
+<h3>Shahzadi Rahat Khan</h3>
+<a href="#about" class="btn">Read More</a>
+</div>
+</section>
+
+<section id="about">
+    <h1>About</h1>
+    <p>
+        My name is Shahzadi khan. I was born on the 12th December 1982 I grew up in Pakistan within the city I studied homeopathy and graduated from one of Pakistan's top universities. I then was married off and decided not to study for a few years, but after
+        I had kids I wanted to study further not just for myself but to become a good support to my kids and help them in in the tasks. I started by studying coding as my son was also studying a program for coding. I always had a interest in coding as
+        I wanted to understand how website and games everything like that is built so while I had the opportunity. Graduated with a degree within coding. I immediately followed it I always knew that studying further was dream - whether it be homeopathy
+        or studying to become a doctor ; whether it be coding my passion. I just wanted to studying. To me and occasion is something which connects everybody whether it's an elderly or a young person.
+    </p>
+    <img src="https://lh3.googleusercontent.com/pw/AM-JKLXDwU2-2tQlNM_lgN1N52NTYvGFYctRUE7j80rhZJ3hGFACbQrBQNzPiaAc0ImBOoQPqKQelw__D2H_WaZ_5Y0ueB1QJBLmsBrGLHNYxNLKqTPxUVp4iGRrqzamRKQQHGEwliojaty1s3K308W_zuPOk7nWezNUyOkSMZFLkHGKSxTXxQjkDqCaCBWOWHZLsGsC9RyQAOW0Dy_Bzu6BuO3aLCFqExVMOlgh1S31unaxmrbsKpf95_c73MyXzheOlHawT21fJOIjF-1DRNp09_zhgdofgQY5HNZWalUGpmmWgCv2asTftP4KhfjX0hQp5VgcFamiH_FYok5uhOzyD1S1IWl3QF2eeMA50X4widQ-3gZHjpH0DRsL0fYQJdW29Feq1bLNI7HLqM-I78A7Hw2d0sr875JMG5fHprG9hB5zEa9kHRjryK8lNL3LrnJ-d5jFZ36zZMXodcHbWckvyBXf8RrabSLDLKYaIIN43ecIRu7bGAZJPhuJY-wGwW4p5O7YXMzDlU_vcu1Ql_THufVKbjwtjLjW3CgOT3FD4Xlka3zjFW75nqm6wlR9cXmS6BHrR5qsf0RIGsBWhBOdHoAJfQReTLIOCGOmKlT_XqKY58VOSiftkbjtho25bmvJjwfWrCA5ypSy820a5BNToyUoPKFSJU56vAS43bN8f9HfJLwXlOPdWTNQ1VOtnkjyBnRr9_xnIriJHXOrnJYNBw-FHJAMXF6ZSy4TcZokvJU0sLFp1eJ57OApdgF5iNDQkHAN03gy-e_Rac5xAtW2=w292-h220-no?authuser=0"
+        alt="baby" width="400" hieght="400">
+    <h2>Follow Me On Social Media</h2>
+
+    <div class="social">
+        <div id="social" style="z-index:120;">
+
+            <ul style="list-style: none;">
+                <li><a href="#" class="social-facebook" target="_blank"><span>Facebook</span></a></li>
+                <li><a href="#" class="social-twitter" target="_blank"><span>Twitter</span></a></li>
+                <li><a href="#" class="social-instagram" target="_blank"><span>Instagram</span></a></li>
+                <li><a href="#" class="social-pinterest" target="_blank"><span>Pinterest</span></a></li>
+            </ul>
+        </div>
+
+    </div>
+</section>

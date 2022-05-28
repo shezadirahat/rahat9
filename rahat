@@ -1,0 +1,124 @@
+h1 {
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.showcase {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    padding: 0 20px;
+}
+
+.video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: var(--primary-color)
+}
+
+body {
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin: -20px;
+}
+
+#main {
+    position: relative;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+[class*="social-"]:before {
+    font-family: cursive, sans-serif;
+}
+
+#social {
+    left: 0;
+    position: fixed;
+    top: 100px;
+    z-index: 100 !important;
+}
+
+#social a {
+    background: #333;
+    color: #fff;
+    display: block;
+    height: 35px;
+    font: 16px "Open Sans", sans-serif;
+    line-height: 35px;
+    position: relative;
+    text-align: center;
+    width: 35px;
+}
+
+#social a span {
+    line-height: 35px;
+    left: -170px;
+    position: absolute;
+    text-align: center;
+    width: 170px;
+}
+
+#social a:hover span {
+    left: 100%;
+}
+
+#social a[class*="facebook"],
+#social a[class*="facebook"]:hover,
+#social a[class*="facebook"] span {
+    background: #3b5998;
+}
+
+span {
+    background: #3b5998;
+}
+
+#social a[class*="twitter"],
+#social a[class*="twitter"]:hover,
+#social a[class*="twitter"] span {
+    background: #00aced;
+}
+
+#social a[class*="instagram"],
+#social a[class*="instagram"]:hover,
+#social a[class*="instagram"] span {
+    background: #517fa4;
+}
+
+#social a[class*="pinterest"],
+#social a[class*="pinterest"]:hover,
+#social a[class*="pinterest"] span {
+    background: #cc2127;
+}
+
+.social-facebook:before {
+    content: url(http://res.cloudinary.com/dvcma6bmj/image/upload/v1521306204/facebook_msgxag.png);
+}
+
+.social-twitter:before {
+    content: url(http://res.cloudinary.com/dvcma6bmj/image/upload/v1521306204/twitter_hfzoqn.png);
+}
+
+.social-instagram:before {
+    content: url(http://res.cloudinary.com/dvcma6bmj/image/upload/v1521306204/instagram_bdowwk.png);
+}
+
+.social-pinterest:before {
+    content: url(http://res.cloudinary.com/dvcma6bmj/image/upload/v1521306204/pinterest_v1utg1.png);
+}
